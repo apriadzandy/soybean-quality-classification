@@ -83,21 +83,24 @@ Model **ResNet50** memberikan performa terbaik untuk klasifikasi kualitas kacang
 
 ## 📉 Confusion Matrix
 
-Confusion matrix digunakan untuk melihat kesalahan klasifikasi antar kelas kualitas kacang kedelai.
+<p align="center">
+  <img src="Assets/Confusion%20Matrix%20CNN%20Scratch.png" width="300"/>
+  <img src="Assets/Confusion%20Matrix%20Resnet50.png" width="300"/>
+  <img src="Assets/Confusion%20Matrix%20MobileNetV2.png" width="300"/>
+</p>
 
-### CNN Scratch
-![Confusion Matrix CNN Scratch](Assets/Confusion%20Matrix%20CNN%20Scratch.png)
+<p align="center">
+  <b>CNN Scratch</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>ResNet50</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MobileNetV2</b>
+</p>
 
-### ResNet50
-![Confusion Matrix ResNet50](Assets/Confusion%20Matrix%20Resnet50.png)
-
-### MobileNetV2
-![Confusion Matrix MobileNetV2](Assets/Confusion%20Matrix%20MobileNetV2.png)
 
 ---
 
 ## 🖥️ Sistem Website Streamlit
 Aplikasi Streamlit digunakan sebagai sistem prediksi berbasis web yang dijalankan secara lokal.
+![Tampilan Streamlit](Assets/Tampilan%20Dasboard.jpeg)
 
 ### Fitur Website
 - Upload citra kacang kedelai
