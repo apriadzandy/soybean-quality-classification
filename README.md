@@ -22,6 +22,9 @@ Hasil model kemudian diintegrasikan ke dalam **aplikasi website sederhana menggu
 ---
 
 ## 📂 Dataset
+- Dataset yang di gunakan dalam proyek ini di ambil dari dataset publik https://www.kaggle.com/datasets/warcoder/soyabean-seeds
+- deskripsi :
+  
 - Jenis data: **Data citra (image dataset)**
 - Jumlah data: **5.000+ citra**
 - Jumlah kelas: **5 kelas kualitas kacang kedelai**
