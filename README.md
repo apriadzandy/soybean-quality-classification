@@ -70,6 +70,14 @@ Pendekatan freeze dan fine-tuning diterapkan untuk menyesuaikan fitur pretrained
 ---
 
 ## 📊 Hasil Evaluasi dan Analisis Perbandingan Model
+### 📑 Classification Report (Ringkasan)
+
+| Model | Accuracy | Precision (Macro) | Recall (Macro) | F1-score (Macro) |
+|------|----------|-------------------|----------------|------------------|
+| CNN Scratch (Non-Pretrained) | 0.83 | 0.82 | 0.82 | 0.82 |
+| ResNet50 (Transfer Learning) | 0.92 | 0.92 | 0.91 | 0.91 |
+| MobileNetV2 (Transfer Learning) | 0.80 | 0.82 | 0.80 | 0.80 |
+
 
 ### Tabel Analisis Perbandingan Model
 
