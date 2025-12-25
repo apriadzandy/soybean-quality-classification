@@ -84,7 +84,7 @@ Model **ResNet50** memberikan performa terbaik untuk klasifikasi kualitas kacang
 ## 📉 Confusion Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/apriadzandy/soybean-quality-classification/main/Assets/Confusion%20Matrix%20CNN%20Scratch.png" width="300"/>
+  <img src="https://github.com/apriadzandy/soybean-quality-classification/blob/main/Assets/Confusion%20Matrix%20CNN%20Stracth.png" width="300"/>
   <img src="https://raw.githubusercontent.com/apriadzandy/soybean-quality-classification/main/Assets/Confusion%20Matrix%20Resnet50.png" width="300"/>
   <img src="https://raw.githubusercontent.com/apriadzandy/soybean-quality-classification/main/Assets/Confusion%20Matrix%20MobileNetV2.png" width="300"/>
 </p>
