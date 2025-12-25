@@ -15,6 +15,7 @@ __pycache__/
 .venv/
 venv/
 
+
 # OS / Editor
 .DS_Store
 .vscode/
@@ -28,3 +29,6 @@ venv/
 # Large artifacts (optional, kalau nanti pakai LFS)
 *.h5
 *.keras
+
+models/resnet50.h5
+
