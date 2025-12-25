@@ -111,10 +111,11 @@ Aplikasi Streamlit digunakan sebagai sistem prediksi berbasis web yang dijalanka
 ## ⚙️ Panduan Menjalankan Sistem Secara Lokal
 
 ### 1. Instalasi Dependensi
-`bas hpip install -r requirements.txt
+```bash pip install -r requirements.txt
+```
 ### 2. Menjalankan Aplikasi Streamlit
- - streamlit run app.py
-
+```bash streamlit run app.py
+```
 ---
 
 👤 Biodata
