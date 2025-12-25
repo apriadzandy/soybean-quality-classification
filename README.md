@@ -124,7 +124,7 @@ Aplikasi Streamlit digunakan sebagai sistem prediksi berbasis web yang dijalanka
 ---
 
 ## Catatan
-- Dikarenakan Ukuran resnet50 cukup besar maka dapat di download dari link berikut
+- Dikarenakan Ukuran model resnet50 cukup besar maka dapat di download dari link berikut
 - Link Model Lengkap : https://drive.google.com/drive/folders/1Dko7ZnYCDs7g2zcxKseYQlMLFtRZ_a3G?usp=sharing
 
 👤 Biodata
